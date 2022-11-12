@@ -76,7 +76,7 @@ Programmer | Content Creator | Learner
 <li> 😪 <i>Love Sleeping</i></li>
 <li> 💔 <i>Born Single</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
-<li> 🤐 <i>Aim : Become a Engineer🙈</i></li>
+<li> 🤐 <i>Aim : Become a Software Engineer🙈</i></li>
 
 [website]: https://khalid224466.blogspot.com
 [facebook]: https://www.facebook.com/KHALID.CYBER.404
