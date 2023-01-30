@@ -15,9 +15,9 @@ Programmer | Content Creator | Learner
 
 ?></h3>
 
-- 🔭 I’m currently working on **python script**
+- 🔭 I’m Currently Working On **Python**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -29,7 +29,7 @@ Programmer | Content Creator | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="khalid224466.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="khalid_vau.bio.link" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="KHALID SHAIFULLAH | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="KHALID SHAIFULLAH | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="KHALID SHAIFULLAH | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
@@ -76,10 +76,10 @@ Programmer | Content Creator | Learner
 <li> 😪 <i>Love Sleeping</i></li>
 <li> 💔 <i>Born Single</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
-<li> 🤐 <i>Aim : Become a Software Engineer🙈</i></li>
+<li> 🤐 <i>Aim : Software Engineer🙈</i></li>
 
-[website]: https://khalid224466.blogspot.com
+[website]: khalid_vau.bio.link
 [facebook]: https://www.facebook.com/KHALID.CYBER.404
-[youtube]: https://youtube.com/c/KhaliDTechBd1?utm_source=EKLEiJECCKjOmKnC5IiRIQ
-[instagram]: https://instagram.com/khalid_vau_2009/
+[youtube]: https://youtube.com/@Khalid_Vau
+[instagram]: https://instagram.com/khalid_shaifullah_404/
 [telegram]: https://t.me/Khalid114433
