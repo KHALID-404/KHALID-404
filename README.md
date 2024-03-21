@@ -11,7 +11,7 @@
 <h1 align="center">Hi <img src="https://github.com/KHALID-404/KHALID-404/blob/main/Wave.gif" height="55px" width="55px">, I'm Khalid Shaifullah</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer | Ethical Hacker | Developer
 
 ?></h3>
 
