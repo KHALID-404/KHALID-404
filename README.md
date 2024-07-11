@@ -1,6 +1,6 @@
 <div align = "center">
   <a href="https://youtube.com/c/KhaliDTechBd1?utm_source=EKLEiJECCKjOmKnC5IiRIQ">
-    <img width="200" heigth="220" src="https://github.com/KHALID-404/KHALID-404/blob/main/20221007_173731-1.jpg">
+    <img width="200" heigth="220" src="https://ibb.co/9TgmNY4">
     </br>
   <h1>KHALID SHAIFULLAH </h1>
 <br>
