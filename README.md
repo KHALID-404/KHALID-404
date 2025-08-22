@@ -1,13 +1,13 @@
 <div align = "center">
-  <a href="https://youtube.com/c/KhaliDTechBd1?utm_source=EKLEiJECCKjOmKnC5IiRIQ">
-    <img width="200" heigth="220" src="https://ibb.co/9TgmNY4">
+  <a href="https://www.youtube.com/@Khalid_Vau">
+    <img width="200" heigth="220" src="https://ibb.co/9TgmNY4](https://postimg.cc/w1Zb71pL">
     </br>
   <h1>KHALID SHAIFULLAH </h1>
 <br>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'm+Khalid+Shaifullah;+It's+Not+A+Name+Brother;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESH-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/BANGLADESHI%20 PROGRAMMER AND DEVELOPER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 <h1 align="center">Hi <img src="https://github.com/KHALID-404/KHALID-404/blob/main/Wave.gif" height="55px" width="55px">, I'm Khalid Shaifullah</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
