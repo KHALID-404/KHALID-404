@@ -6,7 +6,7 @@
 <br>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'm+Khalid+Shaifullah;+I'm+A+Noob+Programmer+And+Developer;I'm+Still+Learning+And+Will+Continue+To+Learn;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'm+Khalid+Shaifullah;+I'm+A+Noob+Programmer;And+Developer+I'm+Still+Learning+And+Will+Continue+To+Learn;Thank+You+For+Visiting+My+Profile)](https://git.io/typing-svg)
 <p align="center"><img src="https://img.shields.io/badge/BANGLADESHI%20 PROGRAMMER AND DEVELOPER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 <h1 align="center">Hi <img src="https://github.com/KHALID-404/KHALID-404/blob/main/Wave.gif" height="55px" width="55px">, I'm Khalid Shaifullah</h1>
 <h3 align="center">¯\_(ツ)_/¯
