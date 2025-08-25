@@ -72,7 +72,7 @@ Programmer | Ethical Hacker | Developer
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇧🇩 <i>Resident of Bangladesh</i></li>
 <li> 😇 <i>Muslim</i></li>
-<li> 😐 <i>High School Student</i></li>
+<li> 😐 <i>College Student</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
 <li> 💔 <i>Born Single</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
