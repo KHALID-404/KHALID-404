@@ -81,5 +81,5 @@ Programmer | Ethical Hacker | Developer
 [website]: khalid_vau.bio.link
 [facebook]: https://www.facebook.com/KHALID.CYBER.404
 [youtube]: https://youtube.com/@Khalid_Vau
-[instagram]: https://instagram.com/khalid_shaifullah_404/
-[telegram]: https://t.me/Khalid114433
+[instagram]: https://instagram.com/khalid_404-unknown/
+[telegram]: https://t.me/Mr_Wizard_09
