@@ -76,7 +76,7 @@ Programmer | Ethical Hacker | Developer
 <li> 😪 <i>Love Sleeping</i></li>
 <li> 💔 <i>Born Single</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
-<li> 🤐 <i>Aim : Software Engineer🙈</i></li>
+<li> 🤐 <i>Aim : Software/Electrical Engineer🙈</i></li>
 
 [website]: khalid_vau.bio.link
 [facebook]: https://www.facebook.com/KHALID.CYBER.404
